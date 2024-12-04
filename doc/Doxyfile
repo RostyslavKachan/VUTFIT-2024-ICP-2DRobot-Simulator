@@ -1,0 +1,22 @@
+# Doxygen configuration file
+
+# Project name
+PROJECT_NAME           = "Robots"
+
+# Project version
+PROJECT_VERSION        = 1.0
+
+# Output directory for generated documentation
+OUTPUT_DIRECTORY       = .
+
+# Source code directory
+INPUT                  = ../src/Robots
+
+# Generate documentation for all source files
+FILE_PATTERNS          = *.cpp *.h
+
+# Include source code in the documentation
+SOURCE_BROWSER         = YES
+
+# Generate HTML output
+GENERATE_HTML          = YES
