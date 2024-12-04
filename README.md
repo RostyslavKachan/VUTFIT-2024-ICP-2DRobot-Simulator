@@ -10,13 +10,13 @@ Rostyslav Kachan - xkacha02
 Usage:
 
 Build project
-    make
+    `make`
 
 Run application
-    make run
+    `make run`
 
 Generate Doxygen documentation in `/doc` directory
-    make doxygen
+    `make doxygen`
 
 Then choose some file from the `examples` folder or create your own.,
 
